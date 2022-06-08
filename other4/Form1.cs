@@ -322,5 +322,10 @@ namespace other4
         {
             button3.Text = "停止读取";
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            button3.Text = "停止读123取";
+        }
     }
 }
