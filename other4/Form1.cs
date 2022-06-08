@@ -317,5 +317,10 @@ namespace other4
 
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            button3.Text = "停止读取";
+        }
     }
 }
